@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "973624198592",
+    "project_id": "strix-7db74",
+    "storage_bucket": "strix-7db74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973624198592:android:6694062ca9d6d4aeccf425",
+        "android_client_info": {
+          "package_name": "com.example.strix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973624198592-066nm5tjtpveplqascd2rvs76earq4i0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.strix",
+            "certificate_hash": "ad296fbe6bec0fe954e8eb94448c6d1b8787f329"
+          }
+        },
+        {
+          "client_id": "973624198592-uj2dhcl4s1ao3j7tf497ql8qfb86d2j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKsr2kykJhEhPKoIR2zoqG-qealLm81xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973624198592-uj2dhcl4s1ao3j7tf497ql8qfb86d2j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
